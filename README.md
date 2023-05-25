@@ -1,3 +1,3 @@
 # ElasticSearch
 
-Usage of ElasticSearch with .Net Core 7.0
+Usage of ElasticSearch with .Net Core 6.0
