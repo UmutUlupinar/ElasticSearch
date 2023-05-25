@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearch", "ElasticSearch\ElasticSearch.csproj", "{857C2BF7-3086-4248-A0BA-4371AA8BCC6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearch.Data", "ElasticSearch.Data\ElasticSearch.Data.csproj", "{957B5448-004E-45A9-8B2A-8C35327D5480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearch.Service", "ElasticSearch.Service\ElasticSearch.Service.csproj", "{5239FEAC-9693-4A85-89EC-58541ED61F51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{857C2BF7-3086-4248-A0BA-4371AA8BCC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{857C2BF7-3086-4248-A0BA-4371AA8BCC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{857C2BF7-3086-4248-A0BA-4371AA8BCC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957B5448-004E-45A9-8B2A-8C35327D5480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957B5448-004E-45A9-8B2A-8C35327D5480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957B5448-004E-45A9-8B2A-8C35327D5480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957B5448-004E-45A9-8B2A-8C35327D5480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5239FEAC-9693-4A85-89EC-58541ED61F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5239FEAC-9693-4A85-89EC-58541ED61F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5239FEAC-9693-4A85-89EC-58541ED61F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5239FEAC-9693-4A85-89EC-58541ED61F51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
