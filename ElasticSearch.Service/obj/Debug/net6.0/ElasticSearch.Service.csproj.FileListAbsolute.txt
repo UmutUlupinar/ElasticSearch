@@ -1,0 +1,15 @@
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\bin\Debug\net6.0\ElasticSearch.Service.deps.json
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\bin\Debug\net6.0\ElasticSearch.Service.dll
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\bin\Debug\net6.0\ElasticSearch.Service.pdb
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\bin\Debug\net6.0\ElasticSearch.Data.dll
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\bin\Debug\net6.0\ElasticSearch.Data.pdb
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\obj\Debug\net6.0\ElasticSearch.Service.csproj.AssemblyReference.cache
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\obj\Debug\net6.0\ElasticSearch.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\obj\Debug\net6.0\ElasticSearch.Service.AssemblyInfoInputs.cache
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\obj\Debug\net6.0\ElasticSearch.Service.AssemblyInfo.cs
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\obj\Debug\net6.0\ElasticSearch.Service.csproj.CoreCompileInputs.cache
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\obj\Debug\net6.0\ElasticSearch.Service.csproj.CopyComplete
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\obj\Debug\net6.0\ElasticSearch.Service.dll
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\obj\Debug\net6.0\refint\ElasticSearch.Service.dll
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\obj\Debug\net6.0\ElasticSearch.Service.pdb
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Service\obj\Debug\net6.0\ref\ElasticSearch.Service.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkYpsG1f734Llx/eB3HSfCpd/pwMEbgHVY/jnkrmt+zz/3qVZKGCfkHk9qFi0FTt9Ge/94Psbe1vkZ4zMvAjpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\umutu\\RiderProjects\\ElasticSearch\\ElasticSearch.Service\\ElasticSearch.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umutu\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\umutu\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\umutu\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
+    "C:\\Users\\umutu\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\umutu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

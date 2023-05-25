@@ -1,0 +1,12 @@
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\bin\Debug\net6.0\ElasticSearch.Data.deps.json
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\bin\Debug\net6.0\ElasticSearch.Data.dll
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\bin\Debug\net6.0\ElasticSearch.Data.pdb
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\obj\Debug\net6.0\ElasticSearch.Data.csproj.AssemblyReference.cache
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\obj\Debug\net6.0\ElasticSearch.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\obj\Debug\net6.0\ElasticSearch.Data.AssemblyInfoInputs.cache
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\obj\Debug\net6.0\ElasticSearch.Data.AssemblyInfo.cs
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\obj\Debug\net6.0\ElasticSearch.Data.csproj.CoreCompileInputs.cache
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\obj\Debug\net6.0\ElasticSearch.Data.dll
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\obj\Debug\net6.0\refint\ElasticSearch.Data.dll
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\obj\Debug\net6.0\ElasticSearch.Data.pdb
+C:\Users\umutu\RiderProjects\ElasticSearch\ElasticSearch.Data\obj\Debug\net6.0\ref\ElasticSearch.Data.dll
